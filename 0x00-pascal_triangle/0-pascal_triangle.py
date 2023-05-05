@@ -15,4 +15,4 @@ def pascal_triangle(n):
                 els.append(C)
                 C = C * (i - j) // j
             lis.append(els)
-    return 
+    return lis

@@ -1,6 +1,6 @@
 # UTF-8 Validation
 
-This project contains interview coding challenges.
+This project was done by Adetunji Olasubomi
 
 ## Tasks To Complete
 

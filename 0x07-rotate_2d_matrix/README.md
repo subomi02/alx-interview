@@ -1,6 +1,6 @@
 # Rotate 2D Matrix
 
-This project contains interview coding challenges.
+This project was created by Adetunji Olasubomi
 
 ## Tasks To Complete
 

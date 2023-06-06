@@ -1,6 +1,6 @@
 # Star Wars API
 
-This project contains interview coding challenges.
+This project was created by Adetunji Olasubomi
 
 ## Tasks To Complete
 

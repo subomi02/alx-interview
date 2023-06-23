@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Island perimeter computing module.
+"""Adetunji Olasubomi
 """
 
 

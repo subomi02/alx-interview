@@ -1,6 +1,6 @@
 # Prime Game
 
-This project contains interview coding challenges.
+This project contains was created by Adetunji Olasubomi
 
 ## Tasks To Complete
 
